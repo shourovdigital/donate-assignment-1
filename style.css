@@ -97,12 +97,14 @@ hr{
 }
 .div-C{
     background-color: rgb(161, 172, 10);
+    margin-right: 5px;
     
 }
 .common{
     border: 0px solid;
     margin: 2px;
     padding: 50px 25px;
+    border-radius: 5px;
 }
 .newsletter-section{
     width: 1080px;
@@ -138,7 +140,7 @@ hr{
     height: 150px;
     width: 100%;
     padding-top: 5px;
-    margin-top: 20px;
+    margin-top: 40px;
 }
 .footer-text{
     font-family: 'Oleo Script Swash Caps', cursive;
